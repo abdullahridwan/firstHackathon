@@ -2,4 +2,4 @@ Hi! For our first hackathon, my team and I tried to solve a problem plaguing man
 
 ![](Gif.gif)
 
-We simply created the front end for Connectify using HTML and CSS. 
+
